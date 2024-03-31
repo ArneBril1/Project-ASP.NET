@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\order\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\order\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\order\\ordersummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\order\\ordersummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\breadpit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:breadpit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|c:\\users\\hoofdgebruiker\\source\\repos\\web2\\breadpit\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76555E6D-D28D-457A-BB69-672CBCB66376}|Breadpit.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:33:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:44:24.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:39:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:50:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:33:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manageproducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Admin\\Manageproducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Manageproducts.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Admin\\Manageproducts.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Manageproducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:56:26.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Admin\\ManageOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageOrders.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Admin\\ManageOrders.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:51:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T17:39:37.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:41:11.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:42:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\RegisterViewmodel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewmodel.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\RegisterViewmodel.cs",
+              "RelativeToolTip": "Models\\RegisterViewmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:34:41.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T18:23:10.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\OrderItemViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\OrderItemViewModel.cs",
+              "RelativeToolTip": "Models\\OrderItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:40:39.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:45:59.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Order\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\PlaceOrder.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Order\\PlaceOrder.cshtml",
+              "RelativeToolTip": "Views\\Order\\PlaceOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T18:00:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:42:09.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:37:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Order\\OrderSummary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\OrderSummary.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Order\\OrderSummary.cshtml",
+              "RelativeToolTip": "Views\\Order\\OrderSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:48:00.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:38:49.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T17:32:48.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T17:39:24.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T17:39:25.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:43:49.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T16:44:53.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Breadpit.csproj",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Breadpit.csproj",
+              "RelativeDocumentMoniker": "Breadpit.csproj",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Breadpit.csproj",
+              "RelativeToolTip": "Breadpit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T16:45:44.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:37:41.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:36:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Hoofdgebruiker\\source\\repos\\web2\\Breadpit\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:35:30.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

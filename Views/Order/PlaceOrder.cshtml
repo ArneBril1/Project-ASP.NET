@@ -1,0 +1,15 @@
+﻿@model List<Breadpit.Models.Product>
+
+<h1>Place Order</h1>
+
+<form method="post" asp-controller="Order" asp-action="SubmitOrder">
+    @for (var i = 0; i < Model.Count; i++)
+    {
+        <div>
+            <label>@Model[i].Name ($@Model[i].Price)</label>
+            <input type="hidden" name="[@i].ProductId" value="@Model[i].Id" />
+            <input type="number" name="[@i].Quantity" min="1" max="10" />
+        </div>
+    }
+    <button type="submit">Submit Order</button>
+</form>

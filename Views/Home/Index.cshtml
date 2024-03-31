@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Welcome to The Breadpit!</h1>
+    <p>Place your orders for delicious sandwiches now!</p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <p><a href="@Url.Action("PlaceOrder", "Order")">Click here to place an order</a></p>
+    }
+</div>

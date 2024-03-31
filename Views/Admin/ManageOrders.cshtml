@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Breadpit.Models.Order>
+
+@{
+    ViewData["Title"] = "Manage Orders";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>User ID</th>
+            <th>Order Date</th>
+            <th>Total Price</th>
+            <th>Products</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.Id</td>
+                <td>@order.UserId</td>
+                <td>@order.OrderDate.ToShortDateString()</td>
+                <td>@order.TotalPrice.ToString("C")</td>
+                <td>
+                    <ul>
+                        @foreach (var item in order.OrderItems)
+                        {
+                            <li>@item.Product.Name</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <form asp-action="DeleteOrder" asp-route-id="@order.Id" method="post">
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                    </form>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
